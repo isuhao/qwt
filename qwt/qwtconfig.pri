@@ -99,7 +99,7 @@ QWT_CONFIG     += QwtSvg
 # If you want to use a OpenGL plot canvas
 ######################################################################
 
-QWT_CONFIG     += QwtOpenGL
+#QWT_CONFIG     += QwtOpenGL
 
 ######################################################################
 # You can use the MathML renderer of the Qt solutions package to 
